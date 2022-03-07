@@ -1,0 +1,20 @@
+﻿body {
+ background: #000;
+ color: #fff;
+ padding: 25px;
+ font-family: sans-serif;
+}
+#main {
+ position: static;
+ color: #ADD8E6;
+}
+#widget {
+ position: fixed;
+ left: 650px;
+ bottom: 470px;
+}
+#logo {
+ position: fixed;
+ left: 650px;
+ bottom: 70px;
+}
